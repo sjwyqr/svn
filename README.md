@@ -207,3 +207,10 @@ svn co svn://你的ip/test /home/wwwroot/test/web
 ##### 多版本控制
 
 按照同样的方法在仓库目录中新建项目，操作相同
+
+##### 关闭svn服务命令
+
+```
+killall svnserve
+```
+
